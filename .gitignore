@@ -1,0 +1,40 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+out/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Cache
+.cache/
+
+# Test files
+test-wallets.json
+sepolia-100-wallets.csv
+
+# Hardhat
+artifacts/
+cache/
+typechain-types/
+
+# Vite
+.vite/
+
+# Temporary scripts
+*.cjs
