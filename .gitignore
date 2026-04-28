@@ -38,3 +38,5 @@ typechain-types/
 
 # Temporary scripts
 *.cjs
+# Example env file
+.env.example
